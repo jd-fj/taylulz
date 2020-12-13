@@ -6,6 +6,7 @@
 
 My education in digital audio drew me into voice-recognition software and video production. I am currently enrolled at [Epicodus](https://www.epicodus.com/what-to-expect), developing my skills in JavaScript, React, C#, .NET, and much more. 
 
+I love nature field recording, film photography, and cooking with butter.
 
 # 
 
