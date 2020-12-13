@@ -7,4 +7,4 @@
 My education in digital audio drew me into voice-recognition software and video production. I am currently enrolled at Epicodus, learning JavaScript, C#, and .NET. 
 
 
-<img src='img/blueSky' alt='a photo of blue sky I took' style="height:200px; width: auto">
+<img src='img/blueSky' alt='a photo of blue sky I took' style="height:100px; width: auto">
