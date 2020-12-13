@@ -4,7 +4,9 @@
 
 ## About Me 
 
-My education in digital audio drew me into voice-recognition software and video production. I am currently enrolled at Epicodus, learning JavaScript, C#, and .NET. 
+My education in digital audio drew me into voice-recognition software and video production. I am currently enrolled at [Epicodus](https://www.epicodus.com/what-to-expect), developing my skills in JavaScript, React, C#, .NET, and much more. 
 
 
-<img src='img/clouds.JPG' alt='a photo of blue sky I took' style="height:100px; width: auto">
+# 
+
+<img src='img/clouds.JPG' alt='ariel view of fluffy, golden cloud tops' style="height:100px; width: auto">
