@@ -11,4 +11,4 @@ I love nature field recording, film photography, and cooking with butter.
 # 
 
 <img src='img/clouds.JPG' alt='ariel view of fluffy, golden cloud tops' style="height:100px; width: auto">
-I never get tired of photographing clouds :)
+<sub>I never get tired of photographing clouds :)</sub>
