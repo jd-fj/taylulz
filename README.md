@@ -8,12 +8,12 @@ My education in digital audio drew me into voice-recognition software and video 
 
 I love nature recording, film photography, and collaboration.
 
+<!-- this is my gh status -->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=taylulz)](https://github.com/anuraghazra/github-readme-stats)
+
 # 
 
 <img src='img/clouds.JPG' alt='ariel view of fluffy, golden cloud tops' style="height:100px; width: auto">
 <sup>I never get tired of photographing clouds :)</sup>
 
-
- <!-- this is my gh status -->
-[![Github stats](https://github-readme-stats.vercel.app/api?username=taylulz)](https://github.com/anuraghazra/github-readme-stats)
 
