@@ -13,7 +13,7 @@ I love nature recording, film photography, and collaboration.
 
 # 
 
-<img src='img/clouds.JPG' alt='ariel view of fluffy, golden cloud tops' style="height:100px; width: auto">
+<img src='img/clouds.JPG' alt='ariel view of fluffy, golden cloud tops' style="height:200px; width: auto">
   I never get tired of photographing clouds :)
 
 
